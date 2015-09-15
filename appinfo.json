@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "fedurca@gmail.com",
+    "longName": "SpaceFlyer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/meteorit.png",
+                "name": "METEOR",
+                "type": "png"
+            },
+            {
+                "file": "images/no_litter_crop.png",
+                "name": "SHIP",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "SpaceFlyer",
+    "uuid": "7c85a22e-be46-4f8c-8282-fda24b0377df",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
